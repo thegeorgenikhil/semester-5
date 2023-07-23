@@ -27,7 +27,7 @@ const BranchSelection = ({ selectedBranch, setSelectedBranch }) => {
   return (
     <div className="mt-8">
       <h1 className="text-2xl font-medium my-3">Select Branch: </h1>
-      <div className="grid grid-cols-2 gap-4 max-w-lg">
+      <div className="grid grid-cols-2 gap-4 max-w-lg mx-auto">
         {branchInfo.map((branch, index) => {
           return (
             <BranchCard

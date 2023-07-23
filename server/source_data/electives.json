@@ -1,0 +1,124 @@
+{
+  "CS": {
+    "DE1": {
+      "CRP_CS-1": { "FACULTY_NAME": "Dr. Chittaranjan Pradhan" },
+      "CRP_CS-2": { "FACULTY_NAME": "Mr. A Ranjith" },
+      "CRP_CS-3": { "FACULTY_NAME": "Mr. Chandra Shekhar" },
+      "AI_CS-1": { "FACULTY_NAME": "Mr. Ramesh Kumar Thakur" },
+      "AI_CS-2": { "FACULTY_NAME": "Ms. Santwana Sagnika" },
+      "AI_CS-3": { "FACULTY_NAME": "Mr. N. Biraja Isac" },
+      "AI_CS-4": { "FACULTY_NAME": "Dr. Mainak Bandyopadhyay" },
+      "AI_CS-5": { "FACULTY_NAME": "Mr. Sunil Kumar Gouda" },
+      "AI_CS-6": { "FACULTY_NAME": "Mr. Debanjan Pathak" },
+      "AI_CS-7": { "FACULTY_NAME": "Dr. Rina Kumari" },
+      "AI_CS-8": { "FACULTY_NAME": "Dr. Partha Sarathi Paul" },
+      "AI_CS-9": { "FACULTY_NAME": "Dr. Madhabananda Das" },
+      "AI_CS-10": { "FACULTY_NAME": "Mr. Ajay Anand" },
+      "AI_CS-11": { "FACULTY_NAME": "Mr. Debanjan Pathak" },
+      "AI_CS-12": { "FACULTY_NAME": "Mr. Ramesh Kumar Thakur" },
+      "AI_CS-13": { "FACULTY_NAME": "Mr. Subhadip Pramanik" },
+      "AI_CS-14": { "FACULTY_NAME": "Mr. N. Biraja Isac" },
+      "AI_CS-15": { "FACULTY_NAME": "Dr. Pampa Sinha" },
+      "AI_CS-16": { "FACULTY_NAME": "Dr. Rajdeep Chatterjee" },
+      "AI_CS-17": { "FACULTY_NAME": "Mr. Subhadip Pramanik" },
+      "AI_CS-18": { "FACULTY_NAME": "Dr. Banhi Sanyal" },
+      "AI_CS-19": { "FACULTY_NAME": "Mr. Ajay Anand" },
+      "AI_CS-20": { "FACULTY_NAME": "Dr. Mainak Bandyopadhyay" },
+      "AI_CS-21": { "FACULTY_NAME": "Dr. Madhabananda Das" },
+      "AI_CS-22": { "FACULTY_NAME": "Ms. Pratyusa Mukherjee" },
+      "AI_CS-23": { "FACULTY_NAME": "Mr. Anirban Bhattacharjee" },
+      "AI_CS-24": { "FACULTY_NAME": "Mrs. Subhashree Darshana" },
+      "AI_CS-25": { "FACULTY_NAME": "Mr. Sourav Kumar Giri" },
+      "AI_CS-26": { "FACULTY_NAME": "Mr. Sunil Kumar Gouda" },
+      "AI_CS-27": { "FACULTY_NAME": "Dr. Satya Champati Rai" },
+      "AI_CS-28": { "FACULTY_NAME": "Dr. Padarabinda Samal" },
+      "AI_CS-29": { "FACULTY_NAME": "Dr. Nibedan Panda" },
+      "AI_CS-30": { "FACULTY_NAME": "Ms. Pratyusa Mukherjee" },
+      "AI_CS-31": { "FACULTY_NAME": "Dr. Debajyoty Banik" },
+      "AI_CS-32": { "FACULTY_NAME": "Mr. Jaydeep Das" },
+      "AI_CS-33": { "FACULTY_NAME": "Dr. Nibedan Panda" },
+      "AI_CS-34": { "FACULTY_NAME": "Mr. Sourav Kumar Giri" },
+      "AI_CS-35": { "FACULTY_NAME": "Dr. Rina Kumari" },
+      "AI_CS-36": { "FACULTY_NAME": "Mr. Anirban Bhattacharjee" },
+      "AI_CS-37": { "FACULTY_NAME": "Ms. Susmita Das" },
+      "AI_CS-38": { "FACULTY_NAME": "Dr. Banhi Sanyal" }
+    },
+    "DE2": {
+      "BD_CS-1": { "FACULTY_NAME": "Mrs. Naliniprava Behera" },
+      "BD_CS-2": { "FACULTY_NAME": "Dr. Siddharth Swarup Rautaray" },
+      "BD_CS-3": { "FACULTY_NAME": "Dr. Anjan Bandyopadhyay" },
+      "BD_CS-4": { "FACULTY_NAME": "Dr. Suchismita Rout" },
+      "BD_CS-5": { "FACULTY_NAME": "Dr. Bhaswati Sahoo" },
+      "BD_CS-6": { "FACULTY_NAME": "Dr. Mainak Bandyopadhyay" },
+      "BD_CS-7": { "FACULTY_NAME": "Ms. Ipsita Paul" },
+      "BD_CS-8": { "FACULTY_NAME": "Mrs. Subhashree Darshana" },
+      "BD_CS-9": { "FACULTY_NAME": "Ms. Krutika Verma" },
+      "BD_CS-10": { "FACULTY_NAME": "Dr. Sourajit Behera" },
+      "BD_CS-11": { "FACULTY_NAME": "Dr. Arghya Kundu" },
+      "BD_CS-12": { "FACULTY_NAME": "Dr. Rajat Kumar Behera" },
+      "BD_CS-13": { "FACULTY_NAME": "Dr. Manjusha Pandey" },
+      "BD_CS-14": { "FACULTY_NAME": "Dr. Subhranshu Sekhar Tripathy" },
+      "BD_CS-15": { "FACULTY_NAME": "Ms. Krutika Verma" },
+      "BD_CS-16": { "FACULTY_NAME": "Dr. Sourajit Behera" },
+      "BD_CS-17": { "FACULTY_NAME": "Dr. Kumar Devadutta" },
+      "BD_CS-18": { "FACULTY_NAME": "Mrs. Jayanti Dansana" },
+      "BD_CS-19": { "FACULTY_NAME": "Dr. Sarita Tripathy" },
+      "BD_CS-20": { "FACULTY_NAME": "Dr. Jay Sarraf" },
+      "BD_CS-21": { "FACULTY_NAME": "Mrs. Subhashree Darshana" },
+      "BD_CS-22": { "FACULTY_NAME": "Dr. Arghya Kundu" },
+      "BD_CS-23": { "FACULTY_NAME": "Ms. Ipsita Paul" },
+      "BD_CS-24": { "FACULTY_NAME": "Dr. Sarita Tripathy" },
+      "BD_CS-25": { "FACULTY_NAME": "Dr. Bhaswati Sahoo" },
+      "BD_CS-26": { "FACULTY_NAME": "Dr. Suchismita Rout" },
+      "BD_CS-27": { "FACULTY_NAME": "Dr. Siddharth Swarup Rautaray" },
+      "BD_CS-28": { "FACULTY_NAME": "Dr. Subhranshu Sekhar Tripathy" },
+      "BD_CS-29": { "FACULTY_NAME": "Dr. Rajat Kumar Behera" },
+      "DMDW_CS-1": { "FACULTY_NAME": "Dr. Hrudaya Kumar Tripathy" },
+      "DMDW_CS-2": { "FACULTY_NAME": "Dr. Ajay Kumar Jena" },
+      "DMDW_CS-3": { "FACULTY_NAME": "Dr. Amiya Ranjan Panda" },
+      "DMDW_CS-4": { "FACULTY_NAME": "Dr. Himansu Das" },
+      "DMDW_CS-5": { "FACULTY_NAME": "Dr. Satarupa Mohanty" },
+      "DMDW_CS-6": { "FACULTY_NAME": "Dr. Murari Mandal" },
+      "CI_CS-1": { "FACULTY_NAME": "Dr. Partha Pratim Sarangi" },
+      "CI_CS-2": { "FACULTY_NAME": "Dr. Dipti Dash" },
+      "CI_CS-3": { "FACULTY_NAME": "Dr. Dayal Kumar Behera" },
+      "CI_CS-4": { "FACULTY_NAME": "Dr. Dipti Dash" },
+      "CI_CS-5": { "FACULTY_NAME": "Dr. Partha Pratim Sarangi" },
+      "CI_CS-6": { "FACULTY_NAME": "Dr. Dayal Kumar Behera" }
+    }
+  },
+  "IT": {
+    "DE1": {
+      "DMDW_IT-1": { "FACULTY_NAME": "Dr. Ajay Kumar Jena" },
+      "DMDW_IT-2": { "FACULTY_NAME": "Dr. Hrudaya Kumar Tripathy" },
+      "DMDW_IT-3": { "FACULTY_NAME": "Dr. Sarita Tripathy" },
+      "CRP_IT-1": { "FACULTY_NAME": "Dr. Tanmoy Maitra" }
+    },
+    "DE2": {
+      "CI_IT-1": { "FACULTY_NAME": "Mr. Sovan Kumar Sahoo" },
+      "BD_IT-1": { "FACULTY_NAME": "Dr. KVVSR Chowdary" },
+      "BD_IT-2": { "FACULTY_NAME": "Mr. Ajit Kumar Pasayat" },
+      "BD_IT-3": { "FACULTY_NAME": "Dr. KVVSR Chowdary" }
+    }
+  },
+  "SE": {
+    "DE1": {
+      "NLP_SE-1": { "FACULTY_NAME": "Dr. Debajyoty Banik" },
+      "CI_SE-1": { "FACULTY_NAME": "Mr. Sovan Kumar Sahoo" }
+    },
+    "DE2": {
+      "ML_SE-1": { "FACULTY_NAME": "Dr. Subrat Kumar Barik" },
+      "ML_SE-2": { "FACULTY_NAME": "Dr. Babita Panda" }
+    }
+  },
+  "CE": {
+    "DE1": {
+      "AI_CE-1": { "FACULTY_NAME": "Dr. Ajaya Kumar Parida" },
+      "AI_CE-2": { "FACULTY_NAME": "Ms. Susmita Das" }
+    },
+    "DE2": {
+      "ITC_CE-1": { "FACULTY_NAME": "Prof.  M. Behera" },
+      "ITC_CE-2": { "FACULTY_NAME": "Prof.  M. Behera" }
+    }
+  }
+}

@@ -1,0 +1,5674 @@
+{
+  "CSE-1": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-103",
+        "FACULTY_NAME": "Dr. VIkas Hassija"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-103",
+        "FACULTY_NAME": "Mrs. Lipika Mohanty"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Dr. Prasant Kumar Pattnaik"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Mrs. Lipika Mohanty"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Mrs. Lipika Mohanty"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. Anuja Kumar Acharya"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Mrs. Lipika Mohanty"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Mrs. Lipika Mohanty"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. VIkas Hassija"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. Prasant Kumar Pattnaik"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "HPC",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. Anuja Kumar Acharya"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. Prasant Kumar Pattnaik"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. Anuja Kumar Acharya"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Dr. Anuja Kumar Acharya"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Dr. VIkas Hassija"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Dr. VIkas Hassija"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. VIkas Hassija"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. Prasant Kumar Pattnaik"
+      }
+    ]
+  },
+  "CSE-2": {
+    "MON": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Mr. Mukesh Kumar"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Mr. Kunal Anand"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. Suresh Chandra Satapathy"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. Ashish Singh"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Mr. Mukesh Kumar"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Mr. Kunal Anand"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Dr. Ashish Singh"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Dr. Suresh Chandra Satapathy"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Dr. Ashish Singh"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Dr. Ashish Singh"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Mr. Mukesh Kumar"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Mr. Kunal Anand"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Dr. Suresh Chandra Satapathy"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. Suresh Chandra Satapathy"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. Ashish Singh"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Mr. Kunal Anand"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Ms. Ipsita Paul"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Ms. Ipsita Paul"
+      }
+    ]
+  },
+  "CSE-3": {
+    "MON": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-206",
+        "FACULTY_NAME": "Dr. Santosh Kumar Swain"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Mr. Debashis Hati"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Mr. Anil Kumar Swain"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Mr. Anil Kumar Swain"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-206",
+        "FACULTY_NAME": "Mr. Anil Kumar Swain"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-206",
+        "FACULTY_NAME": "Dr. Santosh Kumar Swain"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-206",
+        "FACULTY_NAME": "Mr. Debashis Hati"
+      }
+    ],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Mr. Anil Kumar Swain"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Dr. Aleena Swetapadma"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Dr. Santosh Kumar Swain"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Mr. Debashis Hati"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Dr. Aleena Swetapadma"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Dr. Aleena Swetapadma"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Dr. Aleena Swetapadma"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Mr. Debashis Hati"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Dr. Aleena Swetapadma"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Dr. Santosh Kumar Swain"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Mr. Anil Kumar Swain"
+      }
+    ]
+  },
+  "CSE-4": {
+    "MON": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Dr. Sujata Swain"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Dr. Biswajit Sahoo"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Mr. Anirban Bhattacharjee"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Ms. Pratyusa Mukherjee"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Ms. Pratyusa Mukherjee"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Sujata Swain"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Jay Sarraf"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-207",
+        "FACULTY_NAME": "Mr. Anirban Bhattacharjee"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-207",
+        "FACULTY_NAME": "Dr. Biswajit Sahoo"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Jay Sarraf"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Mr. Anirban Bhattacharjee"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Biswajit Sahoo"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Mr. Anirban Bhattacharjee"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Sujata Swain"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Jay Sarraf"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Dr. Sujata Swain"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Dr. Jay Sarraf"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Dr. Jay Sarraf"
+      }
+    ]
+  },
+  "CSE-5": {
+    "MON": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Dr. Rinku Datta Rakshit"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Mrs. Jayanti Dansana"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Mrs. Jayanti Dansana"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Dr. Amulya Ratna Swain"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Dr. Prachet Bhuyan"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. Prachet Bhuyan"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Mrs. Jayanti Dansana"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Rinku Datta Rakshit"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Amulya Ratna Swain"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Mrs. Jayanti Dansana"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Mr. Sovan Kumar Sahoo"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Mr. Sovan Kumar Sahoo"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. Prachet Bhuyan"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. Amulya Ratna Swain"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "HPC",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. Rinku Datta Rakshit"
+      }
+    ],
+    "FRI": [],
+    "SAT": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Mrs. Jayanti Dansana"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Rinku Datta Rakshit"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Prachet Bhuyan"
+      }
+    ]
+  },
+  "CSE-6": {
+    "MON": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Samaresh Mishra"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Mohit Ranjan Panda"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Mr. Sankalp Nayak"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Mr. Rabi Shaw"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Dr. Mohit Ranjan Panda"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Mr. Sankalp Nayak"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Mr. Sankalp Nayak"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. Samaresh Mishra"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Mr. Rabi Shaw"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Dr. Samaresh Mishra"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Dr. Namita Panda"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Dr. Namita Panda"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Mr. Rabi Shaw"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "HPC",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Dr. Mohit Ranjan Panda"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "CN",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Mr. Sankalp Nayak"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. Samaresh Mishra"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Mr. Sankalp Nayak"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. Mohit Ranjan Panda"
+      }
+    ],
+    "SAT": []
+  },
+  "CSE-7": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Dr. Pinaki Sankar Chatterjee"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Dr. Ganga Bishnu Mund"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Dr. Banchhanidhi Dash"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Ms. Chandani Kumari"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Mr. Ajay Anand"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Mr. Ajay Anand"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Dr. Banchhanidhi Dash"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Dr. Pinaki Sankar Chatterjee"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Dr. Pinaki Sankar Chatterjee"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Pinaki Sankar Chatterjee"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Dr. Banchhanidhi Dash"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Ms. Chandani Kumari"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Ms. Chandani Kumari"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Dr. Ganga Bishnu Mund"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. Pinaki Sankar Chatterjee"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Ms. Chandani Kumari"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. Ganga Bishnu Mund"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "HPC",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. Banchhanidhi Dash"
+      }
+    ]
+  },
+  "CSE-8": {
+    "MON": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Ms. Sarita Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. Niranjan Kumar Ray"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-103",
+        "FACULTY_NAME": "Dr. Bhabani Shankar Prasad Mishra"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-103",
+        "FACULTY_NAME": "Dr. Jayanta Mondal"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Ms. Sarita Mishra"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Dr. Bhabani Shankar Prasad Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Dr. Niranjan Kumar Ray"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. Bhabani Shankar Prasad Mishra"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-102",
+        "FACULTY_NAME": "Dr. Niranjan Kumar Ray"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-102",
+        "FACULTY_NAME": "Dr. Niranjan Kumar Ray"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Dr. Jayanta Mondal"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Dr. Bhabani Shankar Prasad Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Dr. Jayanta Mondal"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Dr. Niranjan Kumar Ray"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Ms. Sarita Mishra"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Dr. Jayanta Mondal"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Ms. Sarita Mishra"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Ms. Sarita Mishra"
+      }
+    ]
+  },
+  "CSE-9": {
+    "MON": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Dr. Kumar Surjeet Chaudhury"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. Saurabh Bilgaiyan"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-102",
+        "FACULTY_NAME": "Dr. Subhasis Dash"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-102",
+        "FACULTY_NAME": "Dr. Subhasis Dash"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Dr. Saurabh Bilgaiyan"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-103",
+        "FACULTY_NAME": "Dr. Kumar Surjeet Chaudhury"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-103",
+        "FACULTY_NAME": "Dr. Sushruta Mishra"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-103",
+        "FACULTY_NAME": "Mrs. Bindu Agarwalla"
+      }
+    ],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-207",
+        "FACULTY_NAME": "Dr. Saurabh Bilgaiyan"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-207",
+        "FACULTY_NAME": "Dr. Kumar Surjeet Chaudhury"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Mrs. Bindu Agarwalla"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Sushruta Mishra"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Mrs. Bindu Agarwalla"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Dr. Suchismita Rout"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Dr. Suchismita Rout"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-205",
+        "FACULTY_NAME": "Dr. Saurabh Bilgaiyan"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-205",
+        "FACULTY_NAME": "Mrs. Bindu Agarwalla"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-205",
+        "FACULTY_NAME": "Dr. Sushruta Mishra"
+      }
+    ]
+  },
+  "CSE-10": {
+    "MON": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Mr. Deependra Singh"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Mr. Manas Ranjan Biswal"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Mr. Debanjan Pathak"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Mr. Manas Ranjan Biswal"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Mr. Rohit Kumar Tiwari"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Mr. Deependra Singh"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-102",
+        "FACULTY_NAME": "Dr. Banhi Sanyal"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-102",
+        "FACULTY_NAME": "Dr. Banhi Sanyal"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-103",
+        "FACULTY_NAME": "Mr. Deependra Singh"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-103",
+        "FACULTY_NAME": "Mr. Manas Ranjan Biswal"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-103",
+        "FACULTY_NAME": "Mr. Debanjan Pathak"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Mr. Deependra Singh"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Mr. Rohit Kumar Tiwari"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Mr. Manas Ranjan Biswal"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-102",
+        "FACULTY_NAME": "Mr. Rohit Kumar Tiwari"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-102",
+        "FACULTY_NAME": "Mr. Rohit Kumar Tiwari"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Mr. Rohit Kumar Tiwari"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Mr. Debanjan Pathak"
+      }
+    ]
+  },
+  "CSE-11": {
+    "MON": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Dr. Manoj Kumar Mishra"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Dr. Tanmoy Maitra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Dr. Tanmoy Maitra"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Junali Jasmine Jena"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Manoj Kumar Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Tanmoy Maitra"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Dr. Partha Sarathi Paul"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Dr. Junali Jasmine Jena"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-102",
+        "FACULTY_NAME": "Dr. Partha Sarathi Paul"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-102",
+        "FACULTY_NAME": "Dr. Partha Sarathi Paul"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Dr. Junali Jasmine Jena"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Dr. Partha Sarathi Paul"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Dr. Tanmoy Maitra"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Dr. Manoj Kumar Mishra"
+      }
+    ],
+    "FRI": [],
+    "SAT": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Dr. Junali Jasmine Jena"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Dr. Manoj Kumar Mishra"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Dr. Partha Sarathi Paul"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Dr. Tanmoy Maitra"
+      }
+    ]
+  },
+  "CSE-12": {
+    "MON": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Dr. Abhaya Kumar Sahoo"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Mr. Rohit Kumar Tiwari"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Dr. Raghunath Dey"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Dr. Abhaya Kumar Sahoo"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Mrs. Subhashree Darshana"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Mrs. Subhashree Darshana"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Mr. Rohit Kumar Tiwari"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Dr. Raghunath Dey"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Dr. Abhaya Kumar Sahoo"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Dr. Murari Mandal"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Dr. Murari Mandal"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Dr. Abhaya Kumar Sahoo"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Dr. Raghunath Dey"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Dr. Murari Mandal"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-008",
+        "FACULTY_NAME": "Dr. Murari Mandal"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-205",
+        "FACULTY_NAME": "Mr. Rohit Kumar Tiwari"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-205",
+        "FACULTY_NAME": "Dr. Murari Mandal"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-205",
+        "FACULTY_NAME": "Dr. Raghunath Dey"
+      }
+    ],
+    "SAT": []
+  },
+  "CSE-13": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Dr. Anjan Bandyopadhyay"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Dr. Rinku Datta Rakshit"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Suchismita Rout"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Mr. Sovan Kumar Sahoo"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Mr. Sovan Kumar Sahoo"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Rinku Datta Rakshit"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Anjan Bandyopadhyay"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Suchismita Rout"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Ms. Susmita Das"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Dr. Suchismita Rout"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Dr. Rinku Datta Rakshit"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Dr. Anjan Bandyopadhyay"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Ms. Susmita Das"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-102",
+        "FACULTY_NAME": "Dr. Anjan Bandyopadhyay"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-102",
+        "FACULTY_NAME": "Dr. Anjan Bandyopadhyay"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-206",
+        "FACULTY_NAME": "Dr. Suchismita Rout"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-206",
+        "FACULTY_NAME": "Ms. Susmita Das"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-206",
+        "FACULTY_NAME": "Dr. Rinku Datta Rakshit"
+      }
+    ]
+  },
+  "CSE-14": {
+    "MON": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Saurabh Jha"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Hitesh Mahapatra"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Dr. Kumar Surjeet Chaudhury"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "HPC",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Dr. Sujata Swain"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Sujata Swain"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Saurabh Jha"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Saurabh Jha"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Saurabh Jha"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Hitesh Mahapatra"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Dr. Kumar Surjeet Chaudhury"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Dr. Hitesh Mahapatra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Dr. Sujata Swain"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Kumar Surjeet Chaudhury"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Sujata Swain"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Saurabh Jha"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Dr. Hitesh Mahapatra"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-102",
+        "FACULTY_NAME": "Dr. Kumar Surjeet Chaudhury"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-102",
+        "FACULTY_NAME": "Dr. Kumar Surjeet Chaudhury"
+      }
+    ]
+  },
+  "CSE-15": {
+    "MON": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Mrs. Bindu Agarwalla"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-102",
+        "FACULTY_NAME": "Dr. Soumya Ranjan Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-102",
+        "FACULTY_NAME": "Dr. Soumya Ranjan Mishra"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Manas Ranjan Nayak"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Soumya Ranjan Mishra"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Mrs. Bindu Agarwalla"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Soumya Ranjan Mishra"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Himansu Das"
+      }
+    ],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Himansu Das"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Mrs. Bindu Agarwalla"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Dr. Manas Ranjan Nayak"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Dr. Himansu Das"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-101",
+        "FACULTY_NAME": "Dr. Himansu Das"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Dr. Soumya Ranjan Mishra"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Dr. Manas Ranjan Nayak"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Dr. Himansu Das"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Mrs. Bindu Agarwalla"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Manas Ranjan Nayak"
+      }
+    ]
+  },
+  "CSE-16": {
+    "MON": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Dr. Bhaswati Sahoo"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "HPC",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Mr. Debashis Hati"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Mr. Debashis Hati"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Krishnandu Hazra"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Dr. Manjusha Pandey"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Dr. Jayeeta Chakraborty"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Dr. Jayeeta Chakraborty"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-110",
+        "FACULTY_NAME": "Dr. Krishnandu Hazra"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-110",
+        "FACULTY_NAME": "Dr. Bhaswati Sahoo"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-110",
+        "FACULTY_NAME": "Dr. Manjusha Pandey"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Manjusha Pandey"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Krishnandu Hazra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Mr. Debashis Hati"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Manjusha Pandey"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Bhaswati Sahoo"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Bhaswati Sahoo"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Dr. Bhaswati Sahoo"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "HPC",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Mr. Debashis Hati"
+      }
+    ]
+  },
+  "CSE-17": {
+    "MON": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Mohit Ranjan Panda"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Manas Ranjan Lenka"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Manas Ranjan Lenka"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Dr. Manas Ranjan Lenka"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-201",
+        "FACULTY_NAME": "Ms. Chandani Kumari"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-201",
+        "FACULTY_NAME": "Ms. Santwana Sagnika"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-201",
+        "FACULTY_NAME": "Dr. Manas Ranjan Lenka"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Dr. Mohit Ranjan Panda"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Ms. Chandani Kumari"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Ms. Santwana Sagnika"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Ms. Santwana Sagnika"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Dr. Mohit Ranjan Panda"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Ms. Chandani Kumari"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Ms. Santwana Sagnika"
+      }
+    ],
+    "FRI": [],
+    "SAT": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Dr. Manas Ranjan Lenka"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Ms. Santwana Sagnika"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Ms. Chandani Kumari"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "HPC",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Dr. Mohit Ranjan Panda"
+      }
+    ]
+  },
+  "CSE-18": {
+    "MON": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Dr. Ashish Singh"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Ms. Sarita Mishra"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "HPC",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Suresh Chandra Satapathy"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Ms. Sarita Mishra"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-102",
+        "FACULTY_NAME": "Dr. Ashish Singh"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-102",
+        "FACULTY_NAME": "Dr. Ashish Singh"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Dr. Ashish Singh"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Ms. Chandani Kumari"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Dr. Suresh Chandra Satapathy"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Dr. Ashish Singh"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Ms. Chandani Kumari"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Ms. Sarita Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Dr. Suresh Chandra Satapathy"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Ms. Chandani Kumari"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-102",
+        "FACULTY_NAME": "Ms. Sarita Mishra"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-102",
+        "FACULTY_NAME": "Ms. Sarita Mishra"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Dr. Suresh Chandra Satapathy"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Ms. Chandani Kumari"
+      }
+    ],
+    "SAT": []
+  },
+  "CSE-19": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Soumya Ranjan Mishra"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Mr. Subhadip Pramanik"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Subhasis Dash"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Dr. Leena Das"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Mr. Nayan Kumar S. Behera"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Mr. Nayan Kumar S. Behera"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Soumya Ranjan Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Subhasis Dash"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Leena Das"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Soumya Ranjan Mishra"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-107",
+        "FACULTY_NAME": "Dr. Subhasis Dash"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-107",
+        "FACULTY_NAME": "Mr. Subhadip Pramanik"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Subhasis Dash"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Leena Das"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Mr. Subhadip Pramanik"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Dr. Leena Das"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Ms. Shilpa Das"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Ms. Shilpa Das"
+      }
+    ]
+  },
+  "CSE-20": {
+    "MON": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Samaresh Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Partha Sarathi Paul"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Dr. Samaresh Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Dr. Banchhanidhi Dash"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Dr. Partha Sarathi Paul"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Dr. Sushruta Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Dr. Sushruta Mishra"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Sushruta Mishra"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Samaresh Mishra"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "HPC",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Banchhanidhi Dash"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Sushruta Mishra"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Banchhanidhi Dash"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Samaresh Mishra"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Dr. Banchhanidhi Dash"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Dr. Partha Sarathi Paul"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Sushruta Mishra"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Partha Sarathi Paul"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Partha Sarathi Paul"
+      }
+    ]
+  },
+  "CSE-21": {
+    "MON": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Dr. Murari Mandal"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Mr. Abhishek Raj"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Ashish Singh"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Murari Mandal"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Murari Mandal"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Murari Mandal"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Pinaki Sankar Chatterjee"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "SE",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Ashish Singh"
+      }
+    ],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Dr. Pinaki Sankar Chatterjee"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Dr. Murari Mandal"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-109",
+        "FACULTY_NAME": "Dr. Ashish Singh"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-109",
+        "FACULTY_NAME": "Mr. Abhishek Raj"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Mr. Abhishek Raj"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Ajaya Kumar Parida"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Ajaya Kumar Parida"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Mr. Abhishek Raj"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Ashish Singh"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Pinaki Sankar Chatterjee"
+      }
+    ]
+  },
+  "CSE-22": {
+    "MON": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Kumar Surjeet Chaudhury"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Saurabh Bilgaiyan"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Rinku Datta Rakshit"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Suneeta Mohanty"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Rinku Datta Rakshit"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Kumar Surjeet Chaudhury"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Dr. Saurabh Bilgaiyan"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Dr. Kumar Surjeet Chaudhury"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Dr. Kumar Surjeet Chaudhury"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-103",
+        "FACULTY_NAME": "Dr. Suneeta Mohanty"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-103",
+        "FACULTY_NAME": "Dr. Saurabh Bilgaiyan"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-103",
+        "FACULTY_NAME": "Dr. Rinku Datta Rakshit"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Dr. Kumar Surjeet Chaudhury"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Dr. Rinku Datta Rakshit"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Dr. Sourajit Behera"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Dr. Sourajit Behera"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Suneeta Mohanty"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Saurabh Bilgaiyan"
+      }
+    ]
+  },
+  "CSE-23": {
+    "MON": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Mrs. Meghana G Raj"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Mr. Rohit Kumar Tiwari"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Mrs. Bindu Agarwalla"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Mr. Rohit Kumar Tiwari"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Mr. Rohit Kumar Tiwari"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Mr. Manas Ranjan Biswal"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Mr. Rohit Kumar Tiwari"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Mrs. Meghana G Raj"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Mrs. Bindu Agarwalla"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Mr. Manas Ranjan Biswal"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Mrs. Meghana G Raj"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Mrs. Meghana G Raj"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Mrs. Meghana G Raj"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Mrs. Bindu Agarwalla"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Mr. Manas Ranjan Biswal"
+      }
+    ],
+    "FRI": [],
+    "SAT": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Mr. Rohit Kumar Tiwari"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Mr. Manas Ranjan Biswal"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Mrs. Bindu Agarwalla"
+      }
+    ]
+  },
+  "CSE-24": {
+    "MON": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-103",
+        "FACULTY_NAME": "Dr. Suneeta Mohanty"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Biswajit Sahoo"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "HPC",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Mr. Deependra Singh"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Mr. Deependra Singh"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Suneeta Mohanty"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Suneeta Mohanty"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Sourajit Behera"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Suneeta Mohanty"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Biswajit Sahoo"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Sourajit Behera"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Mr. Deependra Singh"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Suneeta Mohanty"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Mr. Deependra Singh"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Biswajit Sahoo"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Sourajit Behera"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Manoj Kumar Mishra"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-002",
+        "FACULTY_NAME": "Dr. Manoj Kumar Mishra"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Dr. Sourajit Behera"
+      }
+    ],
+    "SAT": []
+  },
+  "CSE-25": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Mr. Abhishek Raj"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Dr. Raghunath Dey"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Dr. Amulya Ratna Swain"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Ms. Ipsita Paul"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Ms. Ipsita Paul"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Dr. Amulya Ratna Swain"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Dr. Hitesh Mahapatra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Dr. Hitesh Mahapatra"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-103",
+        "FACULTY_NAME": "Mr. Abhishek Raj"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-103",
+        "FACULTY_NAME": "Dr. Raghunath Dey"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-103",
+        "FACULTY_NAME": "Dr. Amulya Ratna Swain"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-103",
+        "FACULTY_NAME": "Dr. VIkas Hassija"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Dr. VIkas Hassija"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Dr. Raghunath Dey"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Mr. Abhishek Raj"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Mr. Abhishek Raj"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Dr. Raghunath Dey"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "CN",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Dr. VIkas Hassija"
+      }
+    ]
+  },
+  "CSE-26": {
+    "MON": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Mr. Rabi Shaw"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Dr. Leena Das"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Dr. Suresh Chandra Satapathy"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Dr. Saurabh Jha"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Dr. Saurabh Jha"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Dr. Suresh Chandra Satapathy"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Mr. Rabi Shaw"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Dr. Leena Das"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Dr. Suresh Chandra Satapathy"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Dr. Sourajit Behera"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Dr. Sourajit Behera"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Leena Das"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Mr. Rabi Shaw"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Mr. Rabi Shaw"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Mr. Rabi Shaw"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Leena Das"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Saurabh Jha"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "HPC",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Suresh Chandra Satapathy"
+      }
+    ]
+  },
+  "CSE-27": {
+    "MON": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Dr. Dayal Kumar Behera"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Dr. Dayal Kumar Behera"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Dr. Dayal Kumar Behera"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "HPC",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Dr. Abhaya Kumar Sahoo"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "SE",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Dr. Prasant Kumar Pattnaik"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Dr. Prasant Kumar Pattnaik"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Dr. Abhaya Kumar Sahoo"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. VIkas Hassija"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Dayal Kumar Behera"
+      }
+    ],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Dr. VIkas Hassija"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Dr. Dayal Kumar Behera"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Dr. Abhaya Kumar Sahoo"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Dr. Prasant Kumar Pattnaik"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Dr. Abhaya Kumar Sahoo"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Dr. VIkas Hassija"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Dr. VIkas Hassija"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-206",
+        "FACULTY_NAME": "Dr. VIkas Hassija"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-206",
+        "FACULTY_NAME": "Dr. Prasant Kumar Pattnaik"
+      }
+    ]
+  },
+  "CSE-28": {
+    "MON": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-201",
+        "FACULTY_NAME": "Dr. Prachet Bhuyan"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Dr. Manoj Kumar Mishra"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Mrs. Lipika Mohanty"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Aleena Swetapadma"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Mrs. Lipika Mohanty"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Manoj Kumar Mishra"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. Prachet Bhuyan"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-103",
+        "FACULTY_NAME": "Ms. Krutika Verma"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-103",
+        "FACULTY_NAME": "Ms. Krutika Verma"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Dr. Manoj Kumar Mishra"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Dr. Prachet Bhuyan"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Dr. Aleena Swetapadma"
+      }
+    ],
+    "THU": [],
+    "FRI": [],
+    "SAT": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Mrs. Lipika Mohanty"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Dr. Suchismita Rout"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Dr. Suchismita Rout"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Aleena Swetapadma"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Prachet Bhuyan"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "HPC",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Manoj Kumar Mishra"
+      }
+    ]
+  },
+  "CSE-29": {
+    "MON": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Dr. Bhabani Shankar Prasad Mishra"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Dr. Banhi Sanyal"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Dr. Banhi Sanyal"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Mr. Sankalp Nayak"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Nibedan Panda"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Dr. Bhabani Shankar Prasad Mishra"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Dr. Kumar Devadutta"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Dr. Nibedan Panda"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "CN",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Mr. Sankalp Nayak"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Dr. Kumar Devadutta"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Dr. Bhabani Shankar Prasad Mishra"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Kumar Devadutta"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Bhabani Shankar Prasad Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Mr. Sankalp Nayak"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Nibedan Panda"
+      }
+    ],
+    "FRI": [],
+    "SAT": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Kumar Devadutta"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-103",
+        "FACULTY_NAME": "Mr. Sankalp Nayak"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-103",
+        "FACULTY_NAME": "Mr. Sankalp Nayak"
+      }
+    ]
+  },
+  "CSE-30": {
+    "MON": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-202",
+        "FACULTY_NAME": "Mr. Deependra Singh"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Mr. Kunal Anand"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Dr. Tanmoy Maitra"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Dr. Tanmoy Maitra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Mr. Deependra Singh"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Ms. Pratyusa Mukherjee"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-104",
+        "FACULTY_NAME": "Dr. Tanmoy Maitra"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-104",
+        "FACULTY_NAME": "Dr. Tanmoy Maitra"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Mr. Kunal Anand"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Ms. Pratyusa Mukherjee"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Tanmoy Maitra"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Mr. Kunal Anand"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Ms. Pratyusa Mukherjee"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Ms. Pratyusa Mukherjee"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Ms. Pratyusa Mukherjee"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Mr. Deependra Singh"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Mr. Kunal Anand"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Mr. Deependra Singh"
+      }
+    ],
+    "SAT": []
+  },
+  "CSE-31": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Santosh Kumar Swain"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Mrs. Shaswati Patra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Mohit Ranjan Panda"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Mrs. Shaswati Patra"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Dr. Santosh Kumar Swain"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Dr. Saurabh Jha"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Dr. Santosh Kumar Swain"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Dr. Saurabh Jha"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Dr. Mohit Ranjan Panda"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Dr. Mohit Ranjan Panda"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Dr. Saurabh Jha"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Dr. Saurabh Jha"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Santosh Kumar Swain"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Saurabh Jha"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Mrs. Shaswati Patra"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Dr. Mohit Ranjan Panda"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Mrs. Shaswati Patra"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Mrs. Shaswati Patra"
+      }
+    ]
+  },
+  "CSE-32": {
+    "MON": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Mrs. Krishna Chakravarty"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Dr. Anuja Kumar Acharya"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Dr. Anjan Bandyopadhyay"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Dr. Anjan Bandyopadhyay"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Mr. Mukesh Kumar"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Mrs. Krishna Chakravarty"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Dr. Anjan Bandyopadhyay"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Dr. Anjan Bandyopadhyay"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Dr. Anjan Bandyopadhyay"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Anuja Kumar Acharya"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Mr. Mukesh Kumar"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Dr. Anuja Kumar Acharya"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Mrs. Krishna Chakravarty"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Dr. Anuja Kumar Acharya"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Mr. Mukesh Kumar"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Mrs. Krishna Chakravarty"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Mr. Mukesh Kumar"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Mr. Mukesh Kumar"
+      }
+    ]
+  },
+  "CSE-33": {
+    "MON": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Mr. Ajit Kumar Pasayat"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Mr. Ajit Kumar Pasayat"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Mr. Ajit Kumar Pasayat"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Ms. Sarita Mishra"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Abhaya Kumar Sahoo"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Dr. Krishnandu Hazra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Ms. Sarita Mishra"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Dr. Abhaya Kumar Sahoo"
+      }
+    ],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Dr. Krishnandu Hazra"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Dr. Abhaya Kumar Sahoo"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Mr. Ajit Kumar Pasayat"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Ms. Sarita Mishra"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Dr. Krishnandu Hazra"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Dr. Krishnandu Hazra"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Mr. Ajit Kumar Pasayat"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Abhaya Kumar Sahoo"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Ms. Sarita Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Dr. Krishnandu Hazra"
+      }
+    ]
+  },
+  "CSE-34": {
+    "MON": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Mr. Debashis Hati"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Ms. Ipsita Paul"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Dr. Ganga Bishnu Mund"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Ms. Aradhana Behura"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Mr. Debashis Hati"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Dr. Dayal Kumar Behera"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-102",
+        "FACULTY_NAME": "Dr. Dayal Kumar Behera"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Ms. Aradhana Behura"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Ms. Ipsita Paul"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Ganga Bishnu Mund"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Mr. Debashis Hati"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Ms. Ipsita Paul"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-207",
+        "FACULTY_NAME": "Ms. Ipsita Paul"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-207",
+        "FACULTY_NAME": "Ms. Aradhana Behura"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-207",
+        "FACULTY_NAME": "Dr. Ganga Bishnu Mund"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Mr. Debashis Hati"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Ms. Shilpa Das"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Ms. Shilpa Das"
+      }
+    ]
+  },
+  "CSE-35": {
+    "MON": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Hitesh Mahapatra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Ms. Krutika Verma"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Mr. Abhishek Raj"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Mrs. Jayanti Dansana"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Mrs. Jayanti Dansana"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Mr. Abhishek Raj"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Ms. Krutika Verma"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Mrs. Jayanti Dansana"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Dr. Hitesh Mahapatra"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Ms. Krutika Verma"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Mrs. Jayanti Dansana"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Dr. Hitesh Mahapatra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Mr. Abhishek Raj"
+      }
+    ],
+    "FRI": [],
+    "SAT": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Dr. Hitesh Mahapatra"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-104",
+        "FACULTY_NAME": "Ms. Krutika Verma"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-104",
+        "FACULTY_NAME": "Ms. Krutika Verma"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-207",
+        "FACULTY_NAME": "Mrs. Jayanti Dansana"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-207",
+        "FACULTY_NAME": "Mr. Abhishek Raj"
+      }
+    ]
+  },
+  "CSE-36": {
+    "MON": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Dr. Junali Jasmine Jena"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Dr. Subhasis Dash"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Mrs. Shaswati Patra"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Dr. Soumya Ranjan Mishra"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Dr. Subhasis Dash"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Dr. Soumya Ranjan Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-108",
+        "FACULTY_NAME": "Dr. Soumya Ranjan Mishra"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Dr. Junali Jasmine Jena"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Dr. Soumya Ranjan Mishra"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Dr. Junali Jasmine Jena"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Mrs. Shaswati Patra"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Subhasis Dash"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Mrs. Shaswati Patra"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Dr. Junali Jasmine Jena"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Mrs. Shaswati Patra"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Mrs. Shaswati Patra"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Dr. Soumya Ranjan Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Dr. Subhasis Dash"
+      }
+    ],
+    "SAT": []
+  },
+  "CSE-37": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Dr. Banchhanidhi Dash"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Dr. Aleena Swetapadma"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Dr. Aleena Swetapadma"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Mrs. Lipika Mohanty"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Dr. Saurabh Bilgaiyan"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Mrs. Lipika Mohanty"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Dr. Aleena Swetapadma"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Dr. Saurabh Bilgaiyan"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Dr. Aleena Swetapadma"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Dr. Banchhanidhi Dash"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Mrs. Lipika Mohanty"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Dr. Saurabh Bilgaiyan"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Mrs. Lipika Mohanty"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Mrs. Lipika Mohanty"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Dr. Banchhanidhi Dash"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Banchhanidhi Dash"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Aleena Swetapadma"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Saurabh Bilgaiyan"
+      }
+    ]
+  },
+  "CSE-38": {
+    "MON": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Dr. Suneeta Mohanty"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Dr. Manoj Kumar Mishra"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Dr. Jayanta Mondal"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-105",
+        "FACULTY_NAME": "Mrs. Meghana G Raj"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-105",
+        "FACULTY_NAME": "Dr. Suneeta Mohanty"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-105",
+        "FACULTY_NAME": "Dr. Manoj Kumar Mishra"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "HPC",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Dr. Manoj Kumar Mishra"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Dr. Suneeta Mohanty"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Dr. Suneeta Mohanty"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Mrs. Meghana G Raj"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Dr. Jayanta Mondal"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-105",
+        "FACULTY_NAME": "Dr. Jayanta Mondal"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-105",
+        "FACULTY_NAME": "Mrs. Meghana G Raj"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-001",
+        "FACULTY_NAME": "Dr. Jayanta Mondal"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-001",
+        "FACULTY_NAME": "Dr. Dipti Dash"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-001",
+        "FACULTY_NAME": "Dr. Dipti Dash"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "HPC",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Dr. Manoj Kumar Mishra"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Dr. Suneeta Mohanty"
+      }
+    ]
+  },
+  "CSE-39": {
+    "MON": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Dr. Sujata Swain"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Dr. Leena Das"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Mr. Ajay Anand"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Mr. Ajay Anand"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Mr. Ajay Anand"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Niranjan Kumar Ray"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Leena Das"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Sujata Swain"
+      }
+    ],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HPC",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Dr. Sujata Swain"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Dr. Leena Das"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Dr. Niranjan Kumar Ray"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Mr. Ajay Anand"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Mr. Ajay Anand"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Dr. Bhaswati Sahoo"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Dr. Bhaswati Sahoo"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Dr. Niranjan Kumar Ray"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "HPC",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Dr. Sujata Swain"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "SE",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Dr. Leena Das"
+      }
+    ]
+  },
+  "IT-1": {
+    "MON": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "IOT",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Mr. Sankalp Nayak"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Dr. Jay Sarraf"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Dr. Jay Sarraf"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-105",
+        "FACULTY_NAME": "Dr. Himansu Das"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-105",
+        "FACULTY_NAME": "Dr. Jay Sarraf"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-109",
+        "FACULTY_NAME": "Dr. Jay Sarraf"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-109",
+        "FACULTY_NAME": "Dr. Manjusha Pandey"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-109",
+        "FACULTY_NAME": "Dr. Himansu Das"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "IOT",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Mr. Sankalp Nayak"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Dr. Manjusha Pandey"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Dr. Himansu Das"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Dr. Himansu Das"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "IOT",
+        "ROOM": "A-LH-110",
+        "FACULTY_NAME": "Mr. Sankalp Nayak"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-110",
+        "FACULTY_NAME": "Dr. Himansu Das"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-110",
+        "FACULTY_NAME": "Dr. Manjusha Pandey"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Jay Sarraf"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Manjusha Pandey"
+      }
+    ]
+  },
+  "IT-2": {
+    "MON": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-107",
+        "FACULTY_NAME": "Ms. Santwana Sagnika"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "IOT",
+        "ROOM": "A-LH-107",
+        "FACULTY_NAME": "Ms. Shilpa Das"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-107",
+        "FACULTY_NAME": "Dr. Pinaki Sankar Chatterjee"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-107",
+        "FACULTY_NAME": "Ms. Santwana Sagnika"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-107",
+        "FACULTY_NAME": "Dr. Samaresh Mishra"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "IOT",
+        "ROOM": "A-LH-107",
+        "FACULTY_NAME": "Ms. Shilpa Das"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "IOT",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Ms. Shilpa Das"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Dr. Pinaki Sankar Chatterjee"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Dr. Pinaki Sankar Chatterjee"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-105",
+        "FACULTY_NAME": "Dr. Pinaki Sankar Chatterjee"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-105",
+        "FACULTY_NAME": "Dr. Samaresh Mishra"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-207",
+        "FACULTY_NAME": "Dr. Samaresh Mishra"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-105",
+        "FACULTY_NAME": "Dr. Samaresh Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-105",
+        "FACULTY_NAME": "Ms. Santwana Sagnika"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Dr. Pinaki Sankar Chatterjee"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-103",
+        "FACULTY_NAME": "Ms. Santwana Sagnika"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-103",
+        "FACULTY_NAME": "Ms. Santwana Sagnika"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "IT-3": {
+    "MON": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-105",
+        "FACULTY_NAME": "Dr. Prasant Kumar Pattnaik"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-105",
+        "FACULTY_NAME": "Mr. Mukesh Kumar"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Ms. Aradhana Behura"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Mr. Mukesh Kumar"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Mr. Mukesh Kumar"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "IOT",
+        "ROOM": "A-LH-105",
+        "FACULTY_NAME": "Ms. Shilpa Das"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-105",
+        "FACULTY_NAME": "Ms. Aradhana Behura"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Mr. Mukesh Kumar"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Dr. Prasant Kumar Pattnaik"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "IOT",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Ms. Shilpa Das"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Ms. Aradhana Behura"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "A-DL-101",
+        "FACULTY_NAME": "Ms. Aradhana Behura"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Mr. Mukesh Kumar"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Dr. Prasant Kumar Pattnaik"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "IOT",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Ms. Shilpa Das"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-107",
+        "FACULTY_NAME": "Ms. Aradhana Behura"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-107",
+        "FACULTY_NAME": "Dr. Prasant Kumar Pattnaik"
+      }
+    ],
+    "SAT": []
+  },
+  "IT-4": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-107",
+        "FACULTY_NAME": "Dr. Prachet Bhuyan"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "IOT",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Ms. Shilpa Das"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Dr. Krishnandu Hazra"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Dr. Manas Ranjan Lenka"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-107",
+        "FACULTY_NAME": "Dr. Prachet Bhuyan"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-107",
+        "FACULTY_NAME": "Dr. Krishnandu Hazra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "IOT",
+        "ROOM": "A-LH-107",
+        "FACULTY_NAME": "Ms. Shilpa Das"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "IOT",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Ms. Shilpa Das"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-103",
+        "FACULTY_NAME": "Mrs. Subhashree Darshana"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-103",
+        "FACULTY_NAME": "Mrs. Subhashree Darshana"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-105",
+        "FACULTY_NAME": "Dr. Manas Ranjan Lenka"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-105",
+        "FACULTY_NAME": "Dr. Prachet Bhuyan"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-109",
+        "FACULTY_NAME": "Dr. Manas Ranjan Lenka"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-109",
+        "FACULTY_NAME": "Dr. Krishnandu Hazra"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Dr. Prachet Bhuyan"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Dr. Krishnandu Hazra"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-106",
+        "FACULTY_NAME": "Dr. Krishnandu Hazra"
+      }
+    ]
+  },
+  "CSCE-1": {
+    "MON": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Sushruta Mishra"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-103",
+        "FACULTY_NAME": "Dr. Sushruta Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-103",
+        "FACULTY_NAME": "Dr. Sushruta Mishra"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-109",
+        "FACULTY_NAME": "Mr. Anil Kumar Swain"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DBMS",
+        "ROOM": "A-LH-109",
+        "FACULTY_NAME": "Mr. Sourav Kumar Giri"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Mrs. Krishna Chakravarty"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-103",
+        "FACULTY_NAME": "Mr. Anil Kumar Swain"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "WL-103",
+        "FACULTY_NAME": "Mr. Anil Kumar Swain"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-107",
+        "FACULTY_NAME": "Mrs. Krishna Chakravarty"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-107",
+        "FACULTY_NAME": "Mr. Anil Kumar Swain"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DBMS",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Mr. Sourav Kumar Giri"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DBMS(L)",
+        "ROOM": "WL-104",
+        "FACULTY_NAME": "Mr. Sourav Kumar Giri"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DBMS(L)",
+        "ROOM": "WL-104",
+        "FACULTY_NAME": "Mr. Sourav Kumar Giri"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-206",
+        "FACULTY_NAME": "Mrs. Krishna Chakravarty"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DBMS",
+        "ROOM": "A-LH-206",
+        "FACULTY_NAME": "Mr. Sourav Kumar Giri"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-206",
+        "FACULTY_NAME": "Dr. Sushruta Mishra"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DBMS",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Mr. Sourav Kumar Giri"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Mr. Anil Kumar Swain"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Dr. Sushruta Mishra"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Mrs. Krishna Chakravarty"
+      }
+    ]
+  },
+  "CSCE-2": {
+    "MON": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-109",
+        "FACULTY_NAME": "Dr. Niranjan Kumar Ray"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DBMS",
+        "ROOM": "A-LH-109",
+        "FACULTY_NAME": "Dr. Adyasha Dash"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-110",
+        "FACULTY_NAME": "Dr. Hitesh Mahapatra"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-110",
+        "FACULTY_NAME": "Mrs. Meghana G Raj"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DAA",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Mrs. Meghana G Raj"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-103",
+        "FACULTY_NAME": "Dr. Niranjan Kumar Ray"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-103",
+        "FACULTY_NAME": "Dr. Niranjan Kumar Ray"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DBMS",
+        "ROOM": "A-LH-107",
+        "FACULTY_NAME": "Dr. Adyasha Dash"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-107",
+        "FACULTY_NAME": "Dr. Niranjan Kumar Ray"
+      }
+    ],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "DBMS",
+        "ROOM": "A-LH-109",
+        "FACULTY_NAME": "Dr. Adyasha Dash"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-001",
+        "FACULTY_NAME": "Dr. Hitesh Mahapatra"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-001",
+        "FACULTY_NAME": "Mrs. Meghana G Raj"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DAA(L)",
+        "ROOM": "A-DL-001",
+        "FACULTY_NAME": "Mrs. Meghana G Raj"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "DAA",
+        "ROOM": "A-LH-207",
+        "FACULTY_NAME": "Mrs. Meghana G Raj"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-207",
+        "FACULTY_NAME": "Dr. Hitesh Mahapatra"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Hitesh Mahapatra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Niranjan Kumar Ray"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DBMS",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Dr. Adyasha Dash"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DBMS(L)",
+        "ROOM": "WL-103",
+        "FACULTY_NAME": "Mr. Sourav Kumar Giri"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DBMS(L)",
+        "ROOM": "WL-103",
+        "FACULTY_NAME": "Mr. Sourav Kumar Giri"
+      }
+    ]
+  },
+  "CSSE-1": {
+    "MON": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "IOT",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Dr. Chitralekha Jena"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-104",
+        "FACULTY_NAME": "Ms. Aradhana Behura"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-104",
+        "FACULTY_NAME": "Ms. Aradhana Behura"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "AI",
+        "ROOM": "A-LH-206",
+        "FACULTY_NAME": "Dr. Debajyoty Banik"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-206",
+        "FACULTY_NAME": "Dr. Siddharth Swarup Rautaray"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-110",
+        "FACULTY_NAME": "Ms. Aradhana Behura"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-110",
+        "FACULTY_NAME": "Dr. Siddharth Swarup Rautaray"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "AI",
+        "ROOM": "A-LH-110",
+        "FACULTY_NAME": "Dr. Debajyoty Banik"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "IOT",
+        "ROOM": "A-LH-109",
+        "FACULTY_NAME": "Dr. Chitralekha Jena"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-206",
+        "FACULTY_NAME": "Ms. Aradhana Behura"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-206",
+        "FACULTY_NAME": "Dr. Siddharth Swarup Rautaray"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-103",
+        "FACULTY_NAME": "Ms. Aradhana Behura"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "AI",
+        "ROOM": "A-LH-103",
+        "FACULTY_NAME": "Dr. Debajyoty Banik"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "IOT",
+        "ROOM": "A-LH-103",
+        "FACULTY_NAME": "Dr. Chitralekha Jena"
+      }
+    ],
+    "SAT": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-006",
+        "FACULTY_NAME": "Dr. Siddharth Swarup Rautaray"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "AP(L)",
+        "ROOM": "A-DL-006",
+        "FACULTY_NAME": "Dr. Siddharth Swarup Rautaray"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "AP(L)",
+        "ROOM": "A-DL-006",
+        "FACULTY_NAME": "Dr. Siddharth Swarup Rautaray"
+      }
+    ]
+  },
+  "CSSE-2": {
+    "MON": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "AI",
+        "ROOM": "A-LH-110",
+        "FACULTY_NAME": "Mr. Sovan Kumar Sahoo"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "IOT",
+        "ROOM": "A-LH-110",
+        "FACULTY_NAME": "Dr. Arjyadhara Pradhan"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "CN",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Mr. Ajit Kumar Pasayat"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-104",
+        "FACULTY_NAME": "Mr. Ajit Kumar Pasayat"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "CN(L)",
+        "ROOM": "WL-104",
+        "FACULTY_NAME": "Mr. Ajit Kumar Pasayat"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "AI",
+        "ROOM": "A-LH-110",
+        "FACULTY_NAME": "Mr. Sovan Kumar Sahoo"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-110",
+        "FACULTY_NAME": "Dr. Kumar Devadutta"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "AI",
+        "ROOM": "A-LH-109",
+        "FACULTY_NAME": "Mr. Sovan Kumar Sahoo"
+      },
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-109",
+        "FACULTY_NAME": "Mr. Ajit Kumar Pasayat"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-109",
+        "FACULTY_NAME": "Dr. Kumar Devadutta"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "CN",
+        "ROOM": "A-LH-110",
+        "FACULTY_NAME": "Mr. Ajit Kumar Pasayat"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "IOT",
+        "ROOM": "A-LH-110",
+        "FACULTY_NAME": "Dr. Arjyadhara Pradhan"
+      },
+      {
+        "TIME": "3-4",
+        "SUBJECT": "SE",
+        "ROOM": "A-DL-006",
+        "FACULTY_NAME": "Dr. Kumar Devadutta"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AP(L)",
+        "ROOM": "A-DL-006",
+        "FACULTY_NAME": "Dr. Manjusha Pandey"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "AP(L)",
+        "ROOM": "A-DL-006",
+        "FACULTY_NAME": "Dr. Manjusha Pandey"
+      }
+    ],
+    "FRI": [],
+    "SAT": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "IOT",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Dr. Arjyadhara Pradhan"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "SE",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Dr. Kumar Devadutta"
+      }
+    ]
+  }
+}

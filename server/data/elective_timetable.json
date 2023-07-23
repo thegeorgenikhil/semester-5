@@ -1,0 +1,2844 @@
+{
+  "CRP_CS-1": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "CRP(DE)",
+        "ROOM": "A-LH-107",
+        "FACULTY_NAME": "Dr. Chittaranjan Pradhan"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CRP(DE)",
+        "ROOM": "A-LH-107",
+        "FACULTY_NAME": "Dr. Chittaranjan Pradhan"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "CRP(DE)",
+        "ROOM": "A-LH-107",
+        "FACULTY_NAME": "Dr. Chittaranjan Pradhan"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "CRP_CS-2": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "CRP(DE)",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Mr. A Ranjith"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "CRP(DE)",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Mr. A Ranjith"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CRP(DE)",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Mr. A Ranjith"
+      }
+    ],
+    "SAT": []
+  },
+  "CRP_CS-3": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "CRP(DE)",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Mr. Chandra Shekhar"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CRP(DE)",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Mr. Chandra Shekhar"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "CRP(DE)",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Mr. Chandra Shekhar"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "AI_CS-1": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Mr. Ramesh Kumar Thakur"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Mr. Ramesh Kumar Thakur"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Mr. Ramesh Kumar Thakur"
+      }
+    ],
+    "SAT": []
+  },
+  "AI_CS-2": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Ms. Santwana Sagnika"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Ms. Santwana Sagnika"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Ms. Santwana Sagnika"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "AI_CS-3": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Mr. N. Biraja Isac"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Mr. N. Biraja Isac"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Mr. N. Biraja Isac"
+      }
+    ],
+    "SAT": []
+  },
+  "AI_CS-4": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Mainak Bandyopadhyay"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Mainak Bandyopadhyay"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Mainak Bandyopadhyay"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "AI_CS-5": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Mr. Sunil Kumar Gouda"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Mr. Sunil Kumar Gouda"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Mr. Sunil Kumar Gouda"
+      }
+    ],
+    "SAT": []
+  },
+  "AI_CS-6": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Mr. Debanjan Pathak"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Mr. Debanjan Pathak"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Mr. Debanjan Pathak"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "AI_CS-7": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Rina Kumari"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Rina Kumari"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Rina Kumari"
+      }
+    ],
+    "SAT": []
+  },
+  "AI_CS-8": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Dr. Partha Sarathi Paul"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Dr. Partha Sarathi Paul"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Dr. Partha Sarathi Paul"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "AI_CS-9": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Dr. Madhabananda Das"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Dr. Madhabananda Das"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Dr. Madhabananda Das"
+      }
+    ],
+    "SAT": []
+  },
+  "AI_CS-10": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Mr. Ajay Anand"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Mr. Ajay Anand"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Mr. Ajay Anand"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "AI_CS-11": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Mr. Debanjan Pathak"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Mr. Debanjan Pathak"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Mr. Debanjan Pathak"
+      }
+    ],
+    "SAT": []
+  },
+  "AI_CS-12": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Mr. Ramesh Kumar Thakur"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Mr. Ramesh Kumar Thakur"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Mr. Ramesh Kumar Thakur"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "AI_CS-13": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Mr. Subhadip Pramanik"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Mr. Subhadip Pramanik"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Mr. Subhadip Pramanik"
+      }
+    ],
+    "SAT": []
+  },
+  "AI_CS-14": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Mr. N. Biraja Isac"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Mr. N. Biraja Isac"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Mr. N. Biraja Isac"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "AI_CS-15": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Pampa Sinha"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Pampa Sinha"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Pampa Sinha"
+      }
+    ],
+    "SAT": []
+  },
+  "AI_CS-16": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Rajdeep Chatterjee"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Rajdeep Chatterjee"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Rajdeep Chatterjee"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "AI_CS-17": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Mr. Subhadip Pramanik"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Mr. Subhadip Pramanik"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Mr. Subhadip Pramanik"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "AI_CS-18": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. Banhi Sanyal"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. Banhi Sanyal"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. Banhi Sanyal"
+      }
+    ],
+    "SAT": []
+  },
+  "AI_CS-19": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Mr. Ajay Anand"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Mr. Ajay Anand"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Mr. Ajay Anand"
+      }
+    ],
+    "SAT": []
+  },
+  "AI_CS-20": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Dr. Mainak Bandyopadhyay"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Dr. Mainak Bandyopadhyay"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Dr. Mainak Bandyopadhyay"
+      }
+    ],
+    "SAT": []
+  },
+  "AI_CS-21": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Dr. Madhabananda Das"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Dr. Madhabananda Das"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Dr. Madhabananda Das"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "AI_CS-22": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Ms. Pratyusa Mukherjee"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Ms. Pratyusa Mukherjee"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Ms. Pratyusa Mukherjee"
+      }
+    ],
+    "SAT": []
+  },
+  "AI_CS-23": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Mr. Anirban Bhattacharjee"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Mr. Anirban Bhattacharjee"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Mr. Anirban Bhattacharjee"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "AI_CS-24": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Mrs. Subhashree Darshana"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Mrs. Subhashree Darshana"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Mrs. Subhashree Darshana"
+      }
+    ],
+    "SAT": []
+  },
+  "AI_CS-25": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Mr. Sourav Kumar Giri"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Mr. Sourav Kumar Giri"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Mr. Sourav Kumar Giri"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "AI_CS-26": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Mr. Sunil Kumar Gouda"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Mr. Sunil Kumar Gouda"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Mr. Sunil Kumar Gouda"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "AI_CS-27": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Dr. Satya Champati Rai"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Dr. Satya Champati Rai"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Dr. Satya Champati Rai"
+      }
+    ],
+    "SAT": []
+  },
+  "AI_CS-28": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Dr. Padarabinda Samal"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Dr. Padarabinda Samal"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Dr. Padarabinda Samal"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "AI_CS-29": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Dr. Nibedan Panda"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Dr. Nibedan Panda"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Dr. Nibedan Panda"
+      }
+    ],
+    "SAT": []
+  },
+  "AI_CS-30": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Ms. Pratyusa Mukherjee"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Ms. Pratyusa Mukherjee"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Ms. Pratyusa Mukherjee"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "AI_CS-31": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Debajyoty Banik"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Debajyoty Banik"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Dr. Debajyoty Banik"
+      }
+    ],
+    "SAT": []
+  },
+  "AI_CS-32": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Mr. Jaydeep Das"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Mr. Jaydeep Das"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Mr. Jaydeep Das"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "AI_CS-33": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Dr. Nibedan Panda"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Dr. Nibedan Panda"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Dr. Nibedan Panda"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "AI_CS-34": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Mr. Sourav Kumar Giri"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Mr. Sourav Kumar Giri"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Mr. Sourav Kumar Giri"
+      }
+    ],
+    "SAT": []
+  },
+  "AI_CS-35": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Rina Kumari"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Rina Kumari"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Rina Kumari"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "AI_CS-36": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Mr. Anirban Bhattacharjee"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Mr. Anirban Bhattacharjee"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Mr. Anirban Bhattacharjee"
+      }
+    ],
+    "SAT": []
+  },
+  "AI_CS-37": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Ms. Susmita Das"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Ms. Susmita Das"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Ms. Susmita Das"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "AI_CS-38": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Dr. Banhi Sanyal"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Dr. Banhi Sanyal"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Dr. Banhi Sanyal"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "BD_CS-1": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Mrs. Naliniprava Behera"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Mrs. Naliniprava Behera"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Mrs. Naliniprava Behera"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-2": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Dr. Siddharth Swarup Rautaray"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Dr. Siddharth Swarup Rautaray"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Dr. Siddharth Swarup Rautaray"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-3": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Dr. Anjan Bandyopadhyay"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Dr. Anjan Bandyopadhyay"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Dr. Anjan Bandyopadhyay"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-4": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Dr. Suchismita Rout"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Dr. Suchismita Rout"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Dr. Suchismita Rout"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-5": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Bhaswati Sahoo"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Bhaswati Sahoo"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Bhaswati Sahoo"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-6": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Mainak Bandyopadhyay"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Mainak Bandyopadhyay"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Dr. Mainak Bandyopadhyay"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-7": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Ms. Ipsita Paul"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Ms. Ipsita Paul"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Ms. Ipsita Paul"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-8": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Mrs. Subhashree Darshana"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Mrs. Subhashree Darshana"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-303",
+        "FACULTY_NAME": "Mrs. Subhashree Darshana"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-9": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Ms. Krutika Verma"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Ms. Krutika Verma"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Ms. Krutika Verma"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-10": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Sourajit Behera"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Sourajit Behera"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Sourajit Behera"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-11": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Arghya Kundu"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Arghya Kundu"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-406",
+        "FACULTY_NAME": "Dr. Arghya Kundu"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-12": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Dr. Rajat Kumar Behera"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Dr. Rajat Kumar Behera"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Dr. Rajat Kumar Behera"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-13": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Manjusha Pandey"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Manjusha Pandey"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Manjusha Pandey"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-14": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Dr. Subhranshu Sekhar Tripathy"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Dr. Subhranshu Sekhar Tripathy"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Dr. Subhranshu Sekhar Tripathy"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-15": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Ms. Krutika Verma"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Ms. Krutika Verma"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-305",
+        "FACULTY_NAME": "Ms. Krutika Verma"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-16": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Dr. Sourajit Behera"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Dr. Sourajit Behera"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Dr. Sourajit Behera"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-17": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. Kumar Devadutta"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. Kumar Devadutta"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. Kumar Devadutta"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-18": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Mrs. Jayanti Dansana"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Mrs. Jayanti Dansana"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Mrs. Jayanti Dansana"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-19": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Dr. Sarita Tripathy"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Dr. Sarita Tripathy"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-304",
+        "FACULTY_NAME": "Dr. Sarita Tripathy"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-20": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Dr. Jay Sarraf"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Dr. Jay Sarraf"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Dr. Jay Sarraf"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-21": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Mrs. Subhashree Darshana"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Mrs. Subhashree Darshana"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-206",
+        "FACULTY_NAME": "Mrs. Subhashree Darshana"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-22": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Dr. Arghya Kundu"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Dr. Arghya Kundu"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Dr. Arghya Kundu"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-23": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Ms. Ipsita Paul"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Ms. Ipsita Paul"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Ms. Ipsita Paul"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-24": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. Sarita Tripathy"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. Sarita Tripathy"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. Sarita Tripathy"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-25": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Dr. Bhaswati Sahoo"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Dr. Bhaswati Sahoo"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Dr. Bhaswati Sahoo"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-26": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Dr. Suchismita Rout"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Dr. Suchismita Rout"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "A-LH-003",
+        "FACULTY_NAME": "Dr. Suchismita Rout"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-27": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Dr. Siddharth Swarup Rautaray"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Dr. Siddharth Swarup Rautaray"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "A-LH-004",
+        "FACULTY_NAME": "Dr. Siddharth Swarup Rautaray"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-28": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Subhranshu Sekhar Tripathy"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Subhranshu Sekhar Tripathy"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Subhranshu Sekhar Tripathy"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_CS-29": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Dr. Rajat Kumar Behera"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Dr. Rajat Kumar Behera"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-403",
+        "FACULTY_NAME": "Dr. Rajat Kumar Behera"
+      }
+    ],
+    "SAT": []
+  },
+  "DMDW_CS-1": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Dr. Hrudaya Kumar Tripathy"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Dr. Hrudaya Kumar Tripathy"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "B-306",
+        "FACULTY_NAME": "Dr. Hrudaya Kumar Tripathy"
+      }
+    ],
+    "SAT": []
+  },
+  "DMDW_CS-2": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Ajay Kumar Jena"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Ajay Kumar Jena"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Ajay Kumar Jena"
+      }
+    ],
+    "SAT": []
+  },
+  "DMDW_CS-3": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Amiya Ranjan Panda"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Amiya Ranjan Panda"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "B-203",
+        "FACULTY_NAME": "Dr. Amiya Ranjan Panda"
+      }
+    ],
+    "SAT": []
+  },
+  "DMDW_CS-4": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "A-LH-105",
+        "FACULTY_NAME": "Dr. Himansu Das"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "A-LH-105",
+        "FACULTY_NAME": "Dr. Himansu Das"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "A-LH-105",
+        "FACULTY_NAME": "Dr. Himansu Das"
+      }
+    ],
+    "SAT": []
+  },
+  "DMDW_CS-5": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Satarupa Mohanty"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Satarupa Mohanty"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Satarupa Mohanty"
+      }
+    ],
+    "SAT": []
+  },
+  "DMDW_CS-6": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Murari Mandal"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Murari Mandal"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Murari Mandal"
+      }
+    ],
+    "SAT": []
+  },
+  "CI_CS-1": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Dr. Partha Pratim Sarangi"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Dr. Partha Pratim Sarangi"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Dr. Partha Pratim Sarangi"
+      }
+    ],
+    "SAT": []
+  },
+  "CI_CS-2": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Dr. Dipti Dash"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Dr. Dipti Dash"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Dr. Dipti Dash"
+      }
+    ],
+    "SAT": []
+  },
+  "CI_CS-3": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Dr. Dayal Kumar Behera"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Dr. Dayal Kumar Behera"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "B-404",
+        "FACULTY_NAME": "Dr. Dayal Kumar Behera"
+      }
+    ],
+    "SAT": []
+  },
+  "CI_CS-4": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Dipti Dash"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Dipti Dash"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "B-401",
+        "FACULTY_NAME": "Dr. Dipti Dash"
+      }
+    ],
+    "SAT": []
+  },
+  "CI_CS-5": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. Partha Pratim Sarangi"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. Partha Pratim Sarangi"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. Partha Pratim Sarangi"
+      }
+    ],
+    "SAT": []
+  },
+  "CI_CS-6": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Dr. Dayal Kumar Behera"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Dr. Dayal Kumar Behera"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "B-205",
+        "FACULTY_NAME": "Dr. Dayal Kumar Behera"
+      }
+    ],
+    "SAT": []
+  },
+  "DMDW_IT-1": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Dr. Ajay Kumar Jena"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Dr. Ajay Kumar Jena"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Dr. Ajay Kumar Jena"
+      }
+    ],
+    "SAT": []
+  },
+  "DMDW_IT-2": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Dr. Hrudaya Kumar Tripathy"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Dr. Hrudaya Kumar Tripathy"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Dr. Hrudaya Kumar Tripathy"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "DMDW_IT-3": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Sarita Tripathy"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Sarita Tripathy"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "DMDW(DE)",
+        "ROOM": "A-LH-005",
+        "FACULTY_NAME": "Dr. Sarita Tripathy"
+      }
+    ],
+    "SAT": []
+  },
+  "CRP_IT-1": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "CRP(DE)",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Dr. Tanmoy Maitra"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CRP(DE)",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Dr. Tanmoy Maitra"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "CRP(DE)",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Dr. Tanmoy Maitra"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "CI_IT-1": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Mr. Sovan Kumar Sahoo"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Mr. Sovan Kumar Sahoo"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Mr. Sovan Kumar Sahoo"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_IT-1": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Dr. KVVSR Chowdary"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Dr. KVVSR Chowdary"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-405",
+        "FACULTY_NAME": "Dr. KVVSR Chowdary"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_IT-2": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Mr. Ajit Kumar Pasayat"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Mr. Ajit Kumar Pasayat"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Mr. Ajit Kumar Pasayat"
+      }
+    ],
+    "SAT": []
+  },
+  "BD_IT-3": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. KVVSR Chowdary"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. KVVSR Chowdary"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "BD(DE)",
+        "ROOM": "B-204",
+        "FACULTY_NAME": "Dr. KVVSR Chowdary"
+      }
+    ],
+    "SAT": []
+  },
+  "AI_CE-1": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. Ajaya Kumar Parida"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. Ajaya Kumar Parida"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "B-201",
+        "FACULTY_NAME": "Dr. Ajaya Kumar Parida"
+      }
+    ],
+    "SAT": []
+  },
+  "AI_CE-2": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Ms. Susmita Das"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Ms. Susmita Das"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI(DE)",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Ms. Susmita Das"
+      }
+    ],
+    "SAT": []
+  },
+  "ITC_CE-1": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "ITC(DE)",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Prof.  M. Behera"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "ITC(DE)",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Prof.  M. Behera"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "ITC(DE)",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Prof.  M. Behera"
+      }
+    ],
+    "SAT": []
+  },
+  "ITC_CE-2": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "ITC(DE)",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Prof.  M. Behera"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "ITC(DE)",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Prof.  M. Behera"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "ITC(DE)",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Prof.  M. Behera"
+      }
+    ],
+    "SAT": []
+  },
+  "NLP_SE-1": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "NLP(DE)",
+        "ROOM": "A-LH-109",
+        "FACULTY_NAME": "Dr. Debajyoty Banik"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "NLP(DE)",
+        "ROOM": "A-LH-109",
+        "FACULTY_NAME": "Dr. Debajyoty Banik"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "NLP(DE)",
+        "ROOM": "A-LH-109",
+        "FACULTY_NAME": "Dr. Debajyoty Banik"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "CI_SE-1": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Mr. Sovan Kumar Sahoo"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Mr. Sovan Kumar Sahoo"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "4-5",
+        "SUBJECT": "CI(DE)",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Mr. Sovan Kumar Sahoo"
+      }
+    ],
+    "SAT": []
+  },
+  "ML_SE-1": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "ML(DE)",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Dr. Subrat Kumar Barik"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "ML(DE)",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Dr. Subrat Kumar Barik"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "ML(DE)",
+        "ROOM": "A-LH-009",
+        "FACULTY_NAME": "Dr. Subrat Kumar Barik"
+      }
+    ],
+    "SAT": []
+  },
+  "ML_SE-2": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "ML(DE)",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Dr. Babita Panda"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "3-4",
+        "SUBJECT": "ML(DE)",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Dr. Babita Panda"
+      }
+    ],
+    "THU": [],
+    "FRI": [
+      {
+        "TIME": "5-6",
+        "SUBJECT": "ML(DE)",
+        "ROOM": "A-LH-010",
+        "FACULTY_NAME": "Dr. Babita Panda"
+      }
+    ],
+    "SAT": []
+  }
+}
